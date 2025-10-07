@@ -1,4 +1,5 @@
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -17,11 +18,13 @@
   </header>
 
   <!-- Purpose & Theme -->
+  <section class="py-12 bg-gray-100">
     <div class="container mx-auto px-6 max-w-4xl text-center">
       <h2 class="text-3xl font-semibold mb-4">Purpose & Theme</h2>
       <p class="text-gray-700 mb-2"><strong>Purpose:</strong> To build smart and sustainable technology solutions that solve real-world problems.</p>
       <p class="text-gray-700"><strong>Theme:</strong> Smart & Sustainable Tech Innovation</p>
     </div>
+  </section>
 
   <!-- Why Participate -->
   <section class="py-12">
@@ -262,10 +265,10 @@
   <div class="container mx-auto px-6">
     <h2 class="text-3xl font-semibold mb-4">Register Now</h2>
     <p class="mb-6">Secure your spot and showcase your innovative ideas!</p>
-    <a href="https://forms.gle/AbC123Xyz456" target="_blank" 
-   class="bg-white text-green-600 px-8 py-3 rounded font-semibold shadow hover:bg-gray-100 transition">
-   Register Here
-</a>
+    <a href="https://forms.gle/YOUR_GOOGLE_FORM_LINK" target="_blank" 
+       class="bg-white text-green-600 px-8 py-3 rounded font-semibold shadow hover:bg-gray-100 transition">
+       Register Here
+    </a>
   </div>
 </section>
 
@@ -273,6 +276,5 @@
   <footer class="py-6 text-center bg-gray-800 text-white">
     <p>&copy; 2025 AetherCode Hackathon. All rights reserved.</p>
   </footer>
-
 </body>
 </html>
