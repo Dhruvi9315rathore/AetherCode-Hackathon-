@@ -22,7 +22,6 @@
       <p class="text-gray-700 mb-2"><strong>Purpose:</strong> To build smart and sustainable technology solutions that solve real-world problems.</p>
       <p class="text-gray-700"><strong>Theme:</strong> Smart & Sustainable Tech Innovation</p>
     </div>
-  </section>
 
   <!-- Why Participate -->
   <section class="py-12">
